@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3083722009",
+    "project_id": "joyasapp1",
+    "storage_bucket": "joyasapp1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3083722009:android:b61e275cbb5650d310f988",
+        "android_client_info": {
+          "package_name": "com.example.appjoya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuhJyhXdbimfDeCDjdkBB5_ClWa_TWKmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
